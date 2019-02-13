@@ -1,5 +1,5 @@
 # Learning-Resources
-Listed interesting learning resources to keep updated with news and trends
+Listed interesting learning resources to be updated with news and trends
 
 ### Contribution
 
