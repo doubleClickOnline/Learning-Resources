@@ -1,7 +1,7 @@
 ## Welcome to free learning resources
 
 Goal to store and share free learning resources. <br/>
-Contribute, create pull request to help, look as good deed of the day :yum:
+Contribute, create pull request as good deed of the day :yum:
 
 ### Index
 
