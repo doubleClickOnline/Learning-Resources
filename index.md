@@ -10,5 +10,5 @@ Contribute, create pull request to help, look as good deed of the day :yum:
 #### Podcasts
 
 #### Share 
-Please share [content!](https://github.com/doubleClickOnline/learning-resources)
+Please share [content!](https://doubleclickonline.github.io/learning-resources/)
 
