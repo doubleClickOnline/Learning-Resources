@@ -23,6 +23,7 @@ Contribute, create pull request as good deed of the day :yum:
 
 #### Cheat sheets
  
+ - [Many cheat sheets, https://devhints.io](https://devhints.io/)
  - [Markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 #### Podcasts
