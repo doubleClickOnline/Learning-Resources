@@ -26,8 +26,8 @@ Contribute, create pull request as good deed of the day :yum:
  - [Many cheat sheets, https://devhints.io](https://devhints.io/)
  - [Markdown syntax](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-#### Podcasts
+#### Youtube links
 
-#### Share 
-Please share [content!](https://doubleclickonline.github.io/Learning-Resources/)
-
+ - [Chris Thalinger - Performance Tuning Twitter services with GraalVM & ML](https://www.youtube.com/watch?v=6W0Z2gjL9QY)
+ - [To JAR Hell And Back A Live Migration to Java 11 by Nicolai Parlog](https://www.youtube.com/watch?v=xKmv24_2Asw)
+ - [Building event-driven Java applications using Redis Streams by Mark Paluch](https://www.youtube.com/watch?v=NUwrSrYxFGg)
